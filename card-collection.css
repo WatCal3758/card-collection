@@ -17,6 +17,7 @@ html{
     border: solid black 1px;
     padding: 5px;
     width: 328px;
+    height: 440px;
 }
 .generalinfo{
     text-align: center;
@@ -33,3 +34,76 @@ html{
     border-radius: 4px;
     border: solid gold 2px;
 }
+
+
+
+.player2{
+    text-align: center;
+    border: solid navy 4px;
+}
+.awards2{
+    font-size: 12px;  
+}
+.decorative2{
+    background: linear-gradient(to bottom right, blue, green);
+}
+.card2{
+    background: linear-gradient(to bottom right,
+    red, blue, purple);
+    border: solid black 1px;
+    padding: 5px;
+    width: 322px;
+    height: 440px;
+}
+.generalinfo2{
+    text-align: center;
+    border: solid black 1px;
+}
+.bio2{
+    border: solid  3px;
+    text-align: center;
+}
+.brown{
+    height:150px;
+    width:125px;
+    margin-left: 100px;
+    border-radius: 4px;
+    border: solid purple 2px;
+}
+
+
+.player3{
+    text-align: center;
+    border: solid orange 4px;
+}
+.awards3{
+    font-size: 12px;  
+}
+.decorative3{
+    background: linear-gradient(to bottom right, purple, navy);
+}
+.card3{
+    background: linear-gradient(to bottom right,
+     yellow, orange, green, blue);
+    border: solid black 1px;
+    padding: 5px;
+    width: 316px;
+    height: 440px;
+}
+.generalinfo3{
+    text-align: center;
+    border: solid black 1px;
+}
+.bio3{
+    border: solid black 3px;
+    text-align: center;
+    font-size: 12px;
+}
+.troy{
+    height:150px;
+    width:125px;
+    margin-left: 100px;
+    border-radius: 4px;
+    border: solid red 2px;
+}
+
