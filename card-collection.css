@@ -1,0 +1,35 @@
+html{
+    font-size: 12px
+}
+.player{
+    text-align: center;
+    border: solid orange 4px;
+}
+.awards{
+    font-size: 12px;  
+}
+.decorative{
+    background: linear-gradient(to bottom right, yellow, green);
+}
+.card {
+    background: linear-gradient(to bottom right,
+     #330066, #5c00e6, #0000cc, #330066);
+    border: solid black 1px;
+    padding: 5px;
+    width: 328px;
+}
+.generalinfo{
+    text-align: center;
+    border: solid black 1px;
+}
+.bio{
+    border: solid black 3px;
+    text-align: center;
+}
+.ben{
+    height:150px;
+    width:125px;
+    margin-left: 100px;
+    border-radius: 4px;
+    border: solid gold 2px;
+}
