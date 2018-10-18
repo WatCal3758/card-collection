@@ -83,6 +83,7 @@ html{
     background: linear-gradient(to bottom right, purple, navy);
 }
 .card3{
+    color: white;
     background: linear-gradient(to bottom right,
      yellow, orange, green, blue);
     border: solid black 1px;
@@ -107,3 +108,6 @@ html{
     border: solid red 2px;
 }
 
+.class-margin{
+    margin-top: 20px;
+}
